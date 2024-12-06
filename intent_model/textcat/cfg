@@ -1,0 +1,15 @@
+{
+  "labels":[
+    "hostel_facilities",
+    "fee_structure",
+    "eligibility_criteria",
+    "admission_process",
+    "curriculum",
+    "placement_opportunities",
+    "cutoff",
+    "scholarships",
+    "general_college_info"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}

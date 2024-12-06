@@ -1,0 +1,275 @@
+[
+    [
+        "What is the admission process for engineering colleges?",
+        {
+            "cats": {
+                "admission_process": true,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "How do I apply for admission to a polytechnic college in Rajasthan?",
+        {
+            "cats": {
+                "admission_process": true,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "Can you tell me the steps to apply for an engineering degree?",
+        {
+            "cats": {
+                "admission_process": true,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "What are the eligibility criteria for engineering college admissions?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "eligibility_criteria": true
+            }
+        }
+    ],
+    [
+        "Do I need to have a specific score to get admitted to a college in Rajasthan?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "eligibility_criteria": true
+            }
+        }
+    ],
+    [
+        "Can you provide information on engineering colleges in Rajasthan?",
+        {
+            "cats": {
+                "general_college_info": true,
+                "admission_process": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "How many engineering colleges are there in Rajasthan?",
+        {
+            "cats": {
+                "general_college_info": true,
+                "admission_process": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "Which are the top colleges for engineering in Rajasthan?",
+        {
+            "cats": {
+                "general_college_info": true,
+                "admission_process": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "What is the fee structure for engineering colleges in Rajasthan?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": true,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "How much do I need to pay for admission to a polytechnic college?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": true,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "Are there any additional fees for hostel facilities?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": true,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "What is the curriculum for engineering courses in Rajasthan?",
+        {
+            "cats": {
+                "curriculum": true,
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false
+            }
+        }
+    ],
+    [
+        "Can you tell me about the subjects in a civil engineering degree?",
+        {
+            "cats": {
+                "curriculum": true,
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false
+            }
+        }
+    ],
+    [
+        "Are there scholarships available for students in Rajasthan colleges?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": true,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "What scholarships can I apply for in engineering colleges in Rajasthan?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": true,
+                "hostel_facilities": false,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "What are the hostel facilities available in engineering colleges?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": true,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "Can I stay in a college hostel, and what are the fees?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": true,
+                "curriculum": false
+            }
+        }
+    ],
+    [
+        "What are the job placement opportunities after graduating from engineering colleges in Rajasthan?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "placement_opportunities": true
+            }
+        }
+    ],
+    [
+        "Can you share information about recent placement statistics for engineering colleges?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "placement_opportunities": true
+            }
+        }
+    ],
+    [
+        "What was the cutoff for engineering colleges last year?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "cutoff": true
+            }
+        }
+    ],
+    [
+        "Can I get a list of colleges with their last year's admission statistics?",
+        {
+            "cats": {
+                "admission_process": false,
+                "general_college_info": false,
+                "fee_structure": false,
+                "scholarships": false,
+                "hostel_facilities": false,
+                "cutoff": true
+            }
+        }
+    ]
+]
