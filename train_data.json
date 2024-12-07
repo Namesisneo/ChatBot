@@ -1,1003 +1,1003 @@
 [
-    [
-        "What is the admission process for engineering colleges?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How do I apply for admission to a polytechnic college in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Can you tell me the steps to apply for an engineering degree?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the eligibility criteria for engineering college admissions?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Do I need to have a specific score to get admitted to a college in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Can you provide information on engineering colleges in Rajasthan?",
-        {
-            "cats": {
-                "general_college_info": true,
-                "admission_process": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How many engineering colleges are there in Rajasthan?",
-        {
-            "cats": {
-                "general_college_info": true,
-                "admission_process": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Which are the top colleges for engineering in Rajasthan?",
-        {
-            "cats": {
-                "general_college_info": true,
-                "admission_process": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What is the fee structure for engineering colleges in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How much do I need to pay for admission to a polytechnic college?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there any additional fees for hostel facilities?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What is the curriculum for engineering courses in Rajasthan?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ],
-    [
-        "Can you tell me about the subjects in a civil engineering degree?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ],
-    [
-        "Are there scholarships available for students in Rajasthan colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What scholarships can I apply for in engineering colleges in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the hostel facilities available in engineering colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Can I stay in a college hostel, and what are the fees?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the job placement opportunities after graduating from engineering colleges in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "placement_opportunities": true
-            }
-        }
-    ],
-    [
-        "Can you share information about recent placement statistics for engineering colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "placement_opportunities": true
-            }
-        }
-    ],
-    [
-        "What was the cutoff for engineering colleges last year?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "cutoff": true
-            }
-        }
-    ],
-    [
-        "Can I get a list of colleges with their last year's admission statistics?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "cutoff": true
-            }
-        }
-    ],
-    [
-        "What are the documents required for engineering college admission?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How do I register for engineering entrance exams in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Is there a centralized counseling process for engineering admissions?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Can I apply for multiple colleges in one application?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What is the procedure for lateral entry admissions in engineering colleges?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there any entrance exams specific to Rajasthan for engineering admissions?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How do I know if my application has been accepted by a college?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What is the timeline for engineering admissions in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Can I apply for admissions without entrance exam scores?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there any special quotas for admission to engineering colleges?",
-        {
-            "cats": {
-                "admission_process": true,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the age limits for engineering college admissions?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Do I need specific subjects in high school to be eligible for engineering?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "What is the minimum percentage required for admission to engineering colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Can diploma holders apply for a bachelor's degree in engineering?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Are there any medical fitness criteria for engineering admissions?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Can international students apply for engineering colleges in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Are there any specific eligibility rules for reserved category students?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Do students with gap years in education qualify for admission?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "What are the language proficiency requirements for admissions?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Are there any additional criteria for NRI students?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "eligibility_criteria": true
-            }
-        }
-    ],
-    [
-        "Are there different fee structures for reserved category students?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the semester-wise fees for private engineering colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Is the tuition fee higher for NRI students?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there installment options available for paying fees?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Do engineering colleges in Rajasthan provide fee waivers?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the fees for management quota seats in engineering colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are exam fees included in the tuition fees?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How much is the fee for diploma courses in polytechnic colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What is the fee difference between government and private engineering colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Do colleges charge separate fees for lab facilities?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": true,
-                "scholarships": false,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there scholarships for students excelling in sports?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the scholarships available for economically weaker sections?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Can I apply for central government scholarships along with college-specific ones?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there special scholarships for female engineering students in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How do merit-based scholarships work for Rajasthan engineering colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What documents are needed to apply for need-based scholarships?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Can I retain my scholarship if I transfer to another college in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there scholarships for students with disabilities?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "How do I apply for scholarships provided by corporate sponsors?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are scholarships offered for postgraduate engineering programs in Rajasthan?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": true,
-                "hostel_facilities": false,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What is the accommodation capacity of hostels in Rajasthan colleges?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are hostels in Rajasthan colleges co-ed or gender-segregated?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Do hostels provide Wi-Fi and laundry services?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there vegetarian and non-vegetarian food options in hostels?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the safety measures in hostels for female students?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are hostel fees refundable if a student leaves mid-year?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Can day scholars occasionally stay in hostels during exams?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the hostel rules regarding visitors and outings?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Are there single rooms available in college hostels?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "Do hostels provide gym or recreational facilities?",
-        {
-            "cats": {
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": true,
-                "curriculum": false
-            }
-        }
-    ],
-    [
-        "What are the core subjects in computer science engineering?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ],
-    [
-        "Does the curriculum include internships as a mandatory part?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ],
-    [
-        "Are there elective courses available in the final year?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ],
-    [
-        "What is the credit system followed in engineering colleges?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ],
-    [
-        "Are practical labs included in every semester?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ],
-    [
-        "Does the curriculum include soft skills or personality development courses?",
-        {
-            "cats": {
-                "curriculum": true,
-                "admission_process": false,
-                "general_college_info": false,
-                "fee_structure": false,
-                "scholarships": false,
-                "hostel_facilities": false
-            }
-        }
-    ]
+  [
+    "What is the admission process for engineering colleges?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How do I apply for admission to a polytechnic college in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Can you tell me the steps to apply for an engineering degree?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the eligibility criteria for engineering college admissions?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Do I need to have a specific score to get admitted to a college in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Can you provide information on engineering colleges in Rajasthan?",
+    {
+      "cats": {
+        "general_college_info": true,
+        "admission_process": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How many engineering colleges are there in Rajasthan?",
+    {
+      "cats": {
+        "general_college_info": true,
+        "admission_process": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Which are the top colleges for engineering in Rajasthan?",
+    {
+      "cats": {
+        "general_college_info": true,
+        "admission_process": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What is the fee structure for engineering colleges in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How much do I need to pay for admission to a polytechnic college?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there any additional fees for hostel facilities?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What is the curriculum for engineering courses in Rajasthan?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ],
+  [
+    "Can you tell me about the subjects in a civil engineering degree?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ],
+  [
+    "Are there scholarships available for students in Rajasthan colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What scholarships can I apply for in engineering colleges in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the hostel facilities available in engineering colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Can I stay in a college hostel, and what are the fees?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the job placement opportunities after graduating from engineering colleges in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "placement_opportunities": true
+      }
+    }
+  ],
+  [
+    "Can you share information about recent placement statistics for engineering colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "placement_opportunities": true
+      }
+    }
+  ],
+  [
+    "What was the cutoff for engineering colleges last year?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "cutoff": true
+      }
+    }
+  ],
+  [
+    "Can I get a list of colleges with their last year's admission statistics?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "cutoff": true
+      }
+    }
+  ],
+  [
+    "What are the documents required for engineering college admission?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How do I register for engineering entrance exams in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Is there a centralized counseling process for engineering admissions?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Can I apply for multiple colleges in one application?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What is the procedure for lateral entry admissions in engineering colleges?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there any entrance exams specific to Rajasthan for engineering admissions?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How do I know if my application has been accepted by a college?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What is the timeline for engineering admissions in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Can I apply for admissions without entrance exam scores?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there any special quotas for admission to engineering colleges?",
+    {
+      "cats": {
+        "admission_process": true,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the age limits for engineering college admissions?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Do I need specific subjects in high school to be eligible for engineering?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "What is the minimum percentage required for admission to engineering colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Can diploma holders apply for a bachelor's degree in engineering?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Are there any medical fitness criteria for engineering admissions?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Can international students apply for engineering colleges in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Are there any specific eligibility rules for reserved category students?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Do students with gap years in education qualify for admission?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "What are the language proficiency requirements for admissions?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Are there any additional criteria for NRI students?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "eligibility_criteria": true
+      }
+    }
+  ],
+  [
+    "Are there different fee structures for reserved category students?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the semester-wise fees for private engineering colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Is the tuition fee higher for NRI students?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there installment options available for paying fees?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Do engineering colleges in Rajasthan provide fee waivers?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the fees for management quota seats in engineering colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are exam fees included in the tuition fees?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How much is the fee for diploma courses in polytechnic colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What is the fee difference between government and private engineering colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Do colleges charge separate fees for lab facilities?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": true,
+        "scholarships": false,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there scholarships for students excelling in sports?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the scholarships available for economically weaker sections?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Can I apply for central government scholarships along with college-specific ones?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there special scholarships for female engineering students in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How do merit-based scholarships work for Rajasthan engineering colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What documents are needed to apply for need-based scholarships?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Can I retain my scholarship if I transfer to another college in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there scholarships for students with disabilities?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "How do I apply for scholarships provided by corporate sponsors?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are scholarships offered for postgraduate engineering programs in Rajasthan?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": true,
+        "hostel_facilities": false,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What is the accommodation capacity of hostels in Rajasthan colleges?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are hostels in Rajasthan colleges co-ed or gender-segregated?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Do hostels provide Wi-Fi and laundry services?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there vegetarian and non-vegetarian food options in hostels?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the safety measures in hostels for female students?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are hostel fees refundable if a student leaves mid-year?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Can day scholars occasionally stay in hostels during exams?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the hostel rules regarding visitors and outings?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Are there single rooms available in college hostels?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "Do hostels provide gym or recreational facilities?",
+    {
+      "cats": {
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": true,
+        "curriculum": false
+      }
+    }
+  ],
+  [
+    "What are the core subjects in computer science engineering?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ],
+  [
+    "Does the curriculum include internships as a mandatory part?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ],
+  [
+    "Are there elective courses available in the final year?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ],
+  [
+    "What is the credit system followed in engineering colleges?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ],
+  [
+    "Are practical labs included in every semester?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ],
+  [
+    "Does the curriculum include soft skills or personality development courses?",
+    {
+      "cats": {
+        "curriculum": true,
+        "admission_process": false,
+        "general_college_info": false,
+        "fee_structure": false,
+        "scholarships": false,
+        "hostel_facilities": false
+      }
+    }
+  ]
 ]
